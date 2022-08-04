@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "S4wE9BgTpgSPtiwAjEkt6RtYOUZPmjavUdU/6JSrPxNyajCswoHcTSfmuddKA4tPgmINdbQBJbSO7bZqXiIfmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kenneth\\Desktop\\educative-repo\\Educative.Core\\Educative.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kenneth\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.5\\microsoft.entityframeworkcore.abstractions.6.0.5.nupkg.sha512",
+    "C:\\Users\\Kenneth\\.nuget\\packages\\packaging.targets\\0.1.220\\packaging.targets.0.1.220.nupkg.sha512",
+    "C:\\Users\\Kenneth\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
